@@ -65,3 +65,9 @@ Validated by [`schema/avatar.schema.json`](schema/avatar.schema.json). Every pus
 2. Open an [*Avatar change proposal*](../../issues/new/choose): say what should change and why, with examples.
 3. Or fork, edit the JSON (bump `version`) and open a pull request. The automatic check must pass.
 4. The Suricata team reviews it against the rules above, and merges, asks for changes or explains a refusal.
+
+## License and brand
+
+- **Avatar definitions and documentation:** [CC BY 4.0](LICENSE). Free to use, adapt and share, including commercially, if you credit us and mark your changes.
+- **Schema and workflows** (`schema/`, `.github/`): [MIT](LICENSE-CODE).
+- **Names and logo are not licensed.** You may credit Suricata as the source, but you may not use our name for your product or imply that we endorse it. See [TRADEMARKS.md](TRADEMARKS.md).
