@@ -1,0 +1,43 @@
+name: Avatar change proposal
+description: Suggest a change to a Sentinel Live presenter (sources, rules, tone, names, a new avatar). The Suricata team reviews every proposal.
+title: "[avatar] "
+labels: ["avatar-proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Current definitions are in the [`avatars`](https://github.com/delame/suricata-avatars/tree/main/avatars) folder. Viewers can already switch any avatar off — this form is for changing how an avatar works for everyone.
+  - type: dropdown
+    id: avatar
+    attributes:
+      label: Which avatar?
+      options: [skopos, heimdall, maat, science-health, statistics-economy, law, politics-elections, climate-energy, international, media-images, history, technology, "New avatar"]
+    validations: { required: true }
+  - type: dropdown
+    id: area
+    attributes:
+      label: What would change?
+      multiple: true
+      options: [Sources, Evidence rules, Tone, Subject areas, Name or translation, Look or voice, Other]
+    validations: { required: true }
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+      description: What exactly should change? For a new source, include who publishes it and how they handle corrections.
+    validations: { required: true }
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+      description: Examples of checks that would be better (links welcome).
+    validations: { required: true }
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Ground rules
+      options:
+        - label: The change applies the same standard to every party, country and group.
+          required: true
+        - label: No real person's name, face or voice is used.
+          required: true

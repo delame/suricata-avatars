@@ -1,0 +1,22 @@
+name: Validate avatars
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: npx --yes ajv-cli@5.0.0 validate -s schema/avatar.schema.json -d "avatars/*.json" --strict=false
+      - name: File name matches id, ids unique
+        run: |
+          node -e '
+            const fs=require("fs"),ids=new Set();
+            for (const f of fs.readdirSync("avatars").filter(f=>f.endsWith(".json"))) {
+              const a=JSON.parse(fs.readFileSync("avatars/"+f,"utf8"));
+              if (a.id+".json"!==f) throw new Error(f+": id must match file name");
+              if (ids.has(a.id)) throw new Error("duplicate id "+a.id); ids.add(a.id);
+            }
+            console.log(ids.size+" avatars OK");'
