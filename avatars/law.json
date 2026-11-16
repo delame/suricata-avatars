@@ -7,15 +7,23 @@
   "names": {
     "default": "Helen",
     "pl": "Helena",
-    "cs": "Helena"
+    "cs": "Helena",
+    "sk": "Helena",
+    "hu": "Ilona"
   },
   "title": {
     "en": "Law & constitution",
-    "pl": "Prawo i konstytucja"
+    "pl": "Prawo i konstytucja",
+    "cs": "Právo a ústava",
+    "sk": "Právo a ústava",
+    "hu": "Jog és alkotmány"
   },
   "job": {
     "en": "What a law, ruling or constitution actually says, and what it does not.",
-    "pl": "Co naprawdę mówi ustawa, wyrok lub konstytucja — i czego nie mówi."
+    "pl": "Co naprawdę mówi ustawa, wyrok lub konstytucja — i czego nie mówi.",
+    "cs": "Co zákon, rozsudek nebo ústava skutečně říká — a co neříká.",
+    "sk": "Čo zákon, rozsudok alebo ústava naozaj hovorí — a čo nehovorí.",
+    "hu": "Mit mond valójában egy törvény, ítélet vagy alkotmány — és mit nem."
   },
   "domains": [
     "law",
@@ -26,11 +34,17 @@
   "sources": [
     {
       "en": "Official legal gazettes and law databases (planned)",
-      "pl": "Dzienniki urzędowe i bazy aktów prawnych (plan)"
+      "pl": "Dzienniki urzędowe i bazy aktów prawnych (plan)",
+      "cs": "Úřední sbírky zákonů a právní databáze (plán)",
+      "sk": "Úradné zbierky zákonov a právne databázy (plán)",
+      "hu": "Hivatalos közlönyök és jogszabály-adatbázisok (tervezett)"
     },
     {
       "en": "Court decisions (planned)",
-      "pl": "Orzeczenia sądów (plan)"
+      "pl": "Orzeczenia sądów (plan)",
+      "cs": "Soudní rozhodnutí (plán)",
+      "sk": "Súdne rozhodnutia (plán)",
+      "hu": "Bírósági határozatok (tervezett)"
     }
   ],
   "evidencePolicy": {

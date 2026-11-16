@@ -7,15 +7,23 @@
   "names": {
     "default": "Sophie",
     "pl": "Zofia",
-    "cs": "Žofie"
+    "cs": "Žofie",
+    "sk": "Žofia",
+    "hu": "Zsófia"
   },
   "title": {
     "en": "Science & health",
-    "pl": "Nauka i zdrowie"
+    "pl": "Nauka i zdrowie",
+    "cs": "Věda a zdraví",
+    "sk": "Veda a zdravie",
+    "hu": "Tudomány és egészség"
   },
   "job": {
     "en": "Medicine, nutrition, biology, physics and other scientific claims.",
-    "pl": "Medycyna, żywienie, biologia, fizyka i inne twierdzenia naukowe."
+    "pl": "Medycyna, żywienie, biologia, fizyka i inne twierdzenia naukowe.",
+    "cs": "Medicína, výživa, biologie, fyzika a další vědecká tvrzení.",
+    "sk": "Medicína, výživa, biológia, fyzika a ďalšie vedecké tvrdenia.",
+    "hu": "Orvostudomány, táplálkozás, biológia, fizika és más tudományos állítások."
   },
   "domains": [
     "health",
@@ -26,11 +34,17 @@
   "sources": [
     {
       "en": "Peer-reviewed literature indexes (planned)",
-      "pl": "Indeksy recenzowanej literatury naukowej (plan)"
+      "pl": "Indeksy recenzowanej literatury naukowej (plan)",
+      "cs": "Rejstříky recenzované odborné literatury (plán)",
+      "sk": "Registre recenzovanej odbornej literatúry (plán)",
+      "hu": "Lektorált szakirodalmi indexek (tervezett)"
     },
     {
       "en": "Public-health agencies (planned)",
-      "pl": "Instytucje zdrowia publicznego (plan)"
+      "pl": "Instytucje zdrowia publicznego (plan)",
+      "cs": "Instituce veřejného zdraví (plán)",
+      "sk": "Inštitúcie verejného zdravia (plán)",
+      "hu": "Népegészségügyi intézmények (tervezett)"
     }
   ],
   "evidencePolicy": {

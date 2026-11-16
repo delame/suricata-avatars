@@ -7,15 +7,23 @@
   "names": {
     "default": "Adam",
     "pl": "Adam",
-    "cs": "Adam"
+    "cs": "Adam",
+    "sk": "Adam",
+    "hu": "Ádám"
   },
   "title": {
     "en": "World & conflicts",
-    "pl": "Świat i konflikty"
+    "pl": "Świat i konflikty",
+    "cs": "Svět a konflikty",
+    "sk": "Svet a konflikty",
+    "hu": "Világ és konfliktusok"
   },
   "job": {
     "en": "International affairs, wars, sanctions, treaties and claims about other countries.",
-    "pl": "Sprawy międzynarodowe, wojny, sankcje, traktaty i twierdzenia o innych państwach."
+    "pl": "Sprawy międzynarodowe, wojny, sankcje, traktaty i twierdzenia o innych państwach.",
+    "cs": "Mezinárodní dění, války, sankce, smlouvy a tvrzení o jiných zemích.",
+    "sk": "Medzinárodné dianie, vojny, sankcie, zmluvy a tvrdenia o iných krajinách.",
+    "hu": "Nemzetközi ügyek, háborúk, szankciók, szerződések és más országokról szóló állítások."
   },
   "domains": [
     "international",
@@ -26,15 +34,24 @@
   "sources": [
     {
       "en": "International organisations' records (planned)",
-      "pl": "Dokumenty organizacji międzynarodowych (plan)"
+      "pl": "Dokumenty organizacji międzynarodowych (plan)",
+      "cs": "Záznamy mezinárodních organizací (plán)",
+      "sk": "Záznamy medzinárodných organizácií (plán)",
+      "hu": "Nemzetközi szervezetek dokumentumai (tervezett)"
     },
     {
       "en": "Treaty texts (planned)",
-      "pl": "Teksty traktatów (plan)"
+      "pl": "Teksty traktatów (plan)",
+      "cs": "Texty smluv (plán)",
+      "sk": "Texty zmlúv (plán)",
+      "hu": "Szerződésszövegek (tervezett)"
     },
     {
       "en": "Established international fact-checkers (planned)",
-      "pl": "Uznani międzynarodowi fact-checkerzy (plan)"
+      "pl": "Uznani międzynarodowi fact-checkerzy (plan)",
+      "cs": "Zavedení mezinárodní ověřovatelé faktů (plán)",
+      "sk": "Etablovaní medzinárodní overovatelia faktov (plán)",
+      "hu": "Elismert nemzetközi tényellenőrzők (tervezett)"
     }
   ],
   "evidencePolicy": {
