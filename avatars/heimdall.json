@@ -10,11 +10,17 @@
   "nameOrigin": "Old Norse Heimdallr: the watchman of the gods who sees and hears everything.",
   "title": {
     "en": "Listener · first alert",
-    "pl": "Nasłuch · pierwszy sygnał"
+    "pl": "Nasłuch · pierwszy sygnał",
+    "cs": "Posluchač · první upozornění",
+    "sk": "Poslucháč · prvé upozornenie",
+    "hu": "Figyelő · első jelzés"
   },
   "job": {
     "en": "Announces that a checkable claim was just made and is being checked, and says plainly when something cannot be checked yet. Off by default because it speaks often.",
-    "pl": "Sygnalizuje, że padła teza do sprawdzenia i trwa weryfikacja, oraz mówi wprost, gdy czegoś nie da się jeszcze sprawdzić. Domyślnie wyłączony, bo odzywa się często."
+    "pl": "Sygnalizuje, że padła teza do sprawdzenia i trwa weryfikacja, oraz mówi wprost, gdy czegoś nie da się jeszcze sprawdzić. Domyślnie wyłączony, bo odzywa się często.",
+    "cs": "Oznámí, že právě zaznělo ověřitelné tvrzení a že se ověřuje, a otevřeně řekne, když něco zatím ověřit nejde. Ve výchozím stavu vypnutý, protože mluví často.",
+    "sk": "Oznámi, že práve zaznelo overiteľné tvrdenie a že sa overuje, a otvorene povie, keď sa niečo zatiaľ overiť nedá. Predvolene vypnutý, pretože hovorí často.",
+    "hu": "Jelzi, hogy most hangzott el egy ellenőrizhető állítás, és ellenőrzés alatt van, és nyíltan megmondja, ha valamit még nem lehet ellenőrizni. Alapból kikapcsolt, mert gyakran szólal meg."
   },
   "handles": [
     "pending",

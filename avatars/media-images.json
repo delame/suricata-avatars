@@ -7,15 +7,23 @@
   "names": {
     "default": "Maya",
     "pl": "Maja",
-    "cs": "Maja"
+    "cs": "Maja",
+    "sk": "Maja",
+    "hu": "Maja"
   },
   "title": {
     "en": "Media, images & deepfakes",
-    "pl": "Media, zdjęcia i deepfake'i"
+    "pl": "Media, zdjęcia i deepfake'i",
+    "cs": "Média, obrázky a deepfaky",
+    "sk": "Médiá, obrázky a deepfaky",
+    "hu": "Média, képek és deepfake-ek"
   },
   "job": {
     "en": "Where a photo, video or quote really comes from, and whether it was edited, taken out of context or generated.",
-    "pl": "Skąd naprawdę pochodzi zdjęcie, film lub cytat i czy zostało zmienione, wyrwane z kontekstu albo wygenerowane."
+    "pl": "Skąd naprawdę pochodzi zdjęcie, film lub cytat i czy zostało zmienione, wyrwane z kontekstu albo wygenerowane.",
+    "cs": "Odkud fotka, video nebo citát skutečně pochází a zda byly upraveny, vytrženy z kontextu nebo vygenerovány.",
+    "sk": "Odkiaľ fotka, video alebo citát naozaj pochádza a či boli upravené, vytrhnuté z kontextu alebo vygenerované.",
+    "hu": "Honnan származik valójában egy fotó, videó vagy idézet, és szerkesztették-e, kiragadták-e a szövegkörnyezetből, vagy generálták-e."
   },
   "domains": [
     "media",
@@ -27,11 +35,17 @@
   "sources": [
     {
       "en": "Reverse image and video search (planned)",
-      "pl": "Odwrotne wyszukiwanie zdjęć i filmów (plan)"
+      "pl": "Odwrotne wyszukiwanie zdjęć i filmów (plan)",
+      "cs": "Zpětné vyhledávání obrázků a videí (plán)",
+      "sk": "Spätné vyhľadávanie obrázkov a videí (plán)",
+      "hu": "Fordított kép- és videókeresés (tervezett)"
     },
     {
       "en": "Content-provenance data such as C2PA (planned)",
-      "pl": "Dane o pochodzeniu treści, np. C2PA (plan)"
+      "pl": "Dane o pochodzeniu treści, np. C2PA (plan)",
+      "cs": "Data o původu obsahu, např. C2PA (plán)",
+      "sk": "Údaje o pôvode obsahu, napr. C2PA (plán)",
+      "hu": "Tartalom-eredetiségi adatok, pl. C2PA (tervezett)"
     }
   ],
   "evidencePolicy": {

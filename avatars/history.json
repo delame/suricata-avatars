@@ -7,15 +7,23 @@
   "names": {
     "default": "Peter",
     "pl": "Piotr",
-    "cs": "Petr"
+    "cs": "Petr",
+    "sk": "Peter",
+    "hu": "Péter"
   },
   "title": {
     "en": "History",
-    "pl": "Historia"
+    "pl": "Historia",
+    "cs": "Historie",
+    "sk": "História",
+    "hu": "Történelem"
   },
   "job": {
     "en": "Historical events, dates, figures and the context they are quoted in.",
-    "pl": "Wydarzenia historyczne, daty, postacie i kontekst, w jakim się je przywołuje."
+    "pl": "Wydarzenia historyczne, daty, postacie i kontekst, w jakim się je przywołuje.",
+    "cs": "Historické události, data, postavy a kontext, ve kterém se citují.",
+    "sk": "Historické udalosti, dátumy, osobnosti a kontext, v ktorom sa citujú.",
+    "hu": "Történelmi események, dátumok, személyek és az összefüggés, amelyben idézik őket."
   },
   "domains": [
     "history"
@@ -24,11 +32,17 @@
   "sources": [
     {
       "en": "Archives and digital libraries (planned)",
-      "pl": "Archiwa i biblioteki cyfrowe (plan)"
+      "pl": "Archiwa i biblioteki cyfrowe (plan)",
+      "cs": "Archivy a digitální knihovny (plán)",
+      "sk": "Archívy a digitálne knižnice (plán)",
+      "hu": "Levéltárak és digitális könyvtárak (tervezett)"
     },
     {
       "en": "Academic historical works (planned)",
-      "pl": "Naukowe prace historyczne (plan)"
+      "pl": "Naukowe prace historyczne (plan)",
+      "cs": "Odborné historické práce (plán)",
+      "sk": "Odborné historické práce (plán)",
+      "hu": "Tudományos történeti munkák (tervezett)"
     }
   ],
   "evidencePolicy": {

@@ -7,15 +7,23 @@
   "names": {
     "default": "Natalie",
     "pl": "Natalia",
-    "cs": "Natálie"
+    "cs": "Natálie",
+    "sk": "Natália",
+    "hu": "Natália"
   },
   "title": {
     "en": "Technology & AI",
-    "pl": "Technologia i AI"
+    "pl": "Technologia i AI",
+    "cs": "Technologie a AI",
+    "sk": "Technológie a AI",
+    "hu": "Technológia és MI"
   },
   "job": {
     "en": "Claims about technology, AI, the internet, cybersecurity and online platforms.",
-    "pl": "Twierdzenia o technologii, AI, internecie, cyberbezpieczeństwie i platformach internetowych."
+    "pl": "Twierdzenia o technologii, AI, internecie, cyberbezpieczeństwie i platformach internetowych.",
+    "cs": "Tvrzení o technologiích, AI, internetu, kybernetické bezpečnosti a online platformách.",
+    "sk": "Tvrdenia o technológiách, AI, internete, kybernetickej bezpečnosti a online platformách.",
+    "hu": "Állítások a technológiáról, a mesterséges intelligenciáról, az internetről, a kiberbiztonságról és az online platformokról."
   },
   "domains": [
     "technology",
@@ -27,11 +35,17 @@
   "sources": [
     {
       "en": "Standards bodies and official technical documentation (planned)",
-      "pl": "Organizacje normalizacyjne i oficjalna dokumentacja techniczna (plan)"
+      "pl": "Organizacje normalizacyjne i oficjalna dokumentacja techniczna (plan)",
+      "cs": "Normalizační orgány a oficiální technická dokumentace (plán)",
+      "sk": "Normalizačné orgány a oficiálna technická dokumentácia (plán)",
+      "hu": "Szabványügyi testületek és hivatalos műszaki dokumentáció (tervezett)"
     },
     {
       "en": "Security advisories (planned)",
-      "pl": "Komunikaty bezpieczeństwa (plan)"
+      "pl": "Komunikaty bezpieczeństwa (plan)",
+      "cs": "Bezpečnostní upozornění (plán)",
+      "sk": "Bezpečnostné upozornenia (plán)",
+      "hu": "Biztonsági figyelmeztetések (tervezett)"
     }
   ],
   "evidencePolicy": {

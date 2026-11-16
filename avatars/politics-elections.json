@@ -7,15 +7,23 @@
   "names": {
     "default": "Mark",
     "pl": "Marek",
-    "cs": "Marek"
+    "cs": "Marek",
+    "sk": "Marek",
+    "hu": "Márk"
   },
   "title": {
     "en": "Politics & elections",
-    "pl": "Polityka i wybory"
+    "pl": "Polityka i wybory",
+    "cs": "Politika a volby",
+    "sk": "Politika a voľby",
+    "hu": "Politika és választások"
   },
   "job": {
     "en": "Voting records, party programmes, promises and election rules. Applies the same standard to every party.",
-    "pl": "Historia głosowań, programy partii, obietnice i zasady wyborcze. Ta sama miara dla każdej partii."
+    "pl": "Historia głosowań, programy partii, obietnice i zasady wyborcze. Ta sama miara dla każdej partii.",
+    "cs": "Hlasování, stranické programy, sliby a volební pravidla. Na každou stranu uplatňuje stejné měřítko.",
+    "sk": "Hlasovania, stranícke programy, sľuby a volebné pravidlá. Na každú stranu uplatňuje rovnaké meradlo.",
+    "hu": "Szavazási adatok, pártprogramok, ígéretek és választási szabályok. Minden pártra ugyanazt a mércét alkalmazza."
   },
   "domains": [
     "politics",
@@ -26,15 +34,24 @@
   "sources": [
     {
       "en": "Parliamentary records and voting data (planned)",
-      "pl": "Zapisy parlamentarne i wyniki głosowań (plan)"
+      "pl": "Zapisy parlamentarne i wyniki głosowań (plan)",
+      "cs": "Parlamentní záznamy a data o hlasování (plán)",
+      "sk": "Parlamentné záznamy a údaje o hlasovaní (plán)",
+      "hu": "Parlamenti jegyzőkönyvek és szavazási adatok (tervezett)"
     },
     {
       "en": "Election authorities (planned)",
-      "pl": "Organy wyborcze (plan)"
+      "pl": "Organy wyborcze (plan)",
+      "cs": "Volební orgány (plán)",
+      "sk": "Volebné orgány (plán)",
+      "hu": "Választási szervek (tervezett)"
     },
     {
       "en": "Published party programmes (planned)",
-      "pl": "Opublikowane programy partii (plan)"
+      "pl": "Opublikowane programy partii (plan)",
+      "cs": "Zveřejněné stranické programy (plán)",
+      "sk": "Zverejnené stranícke programy (plán)",
+      "hu": "Közzétett pártprogramok (tervezett)"
     }
   ],
   "evidencePolicy": {

@@ -10,11 +10,17 @@
   "nameOrigin": "Ancient Greek σκοπός (skopos): the lookout watching from a height.",
   "title": {
     "en": "Host · the lookout",
-    "pl": "Prowadzący · obserwator"
+    "pl": "Prowadzący · obserwator",
+    "cs": "Moderátor · hlídka",
+    "sk": "Moderátor · hliadka",
+    "hu": "Házigazda · az őrszem"
   },
   "job": {
     "en": "Opens the segment, hands each check to the right expert, presents opinions and every check whose expert you have switched off, and sums up at the end.",
-    "pl": "Otwiera segment, przekazuje każde sprawdzenie właściwemu ekspertowi, omawia opinie i sprawdzenia ekspertów, których wyłączyłeś, a na koniec podsumowuje."
+    "pl": "Otwiera segment, przekazuje każde sprawdzenie właściwemu ekspertowi, omawia opinie i sprawdzenia ekspertów, których wyłączyłeś, a na koniec podsumowuje.",
+    "cs": "Otevře blok, předá každou kontrolu správnému odborníkovi, představí názory i každou kontrolu, jejíhož odborníka jsi vypnul, a na konci shrne.",
+    "sk": "Otvorí blok, odovzdá každú kontrolu správnemu odborníkovi, predstaví názory aj každú kontrolu, ktorej odborníka si vypol, a na konci zhrnie.",
+    "hu": "Megnyitja a blokkot, minden ellenőrzést a megfelelő szakértőnek ad át, bemutatja a véleményeket és minden olyan ellenőrzést, amelynek szakértőjét kikapcsoltad, a végén pedig összefoglal."
   },
   "handles": [
     "opinion",

@@ -10,11 +10,17 @@
   "nameOrigin": "Ancient Egyptian Maat: truth and order; the heart weighed against her feather.",
   "title": {
     "en": "Weigher · method and corrections",
-    "pl": "Waga · metoda i poprawki"
+    "pl": "Waga · metoda i poprawki",
+    "cs": "Vážitelka · metoda a opravy",
+    "sk": "Vážiteľka · metóda a opravy",
+    "hu": "Mérlegelő · módszer és javítások"
   },
   "job": {
     "en": "Explains how a verdict was reached when the evidence is mixed or uncertain, and announces corrections when a published check changes.",
-    "pl": "Wyjaśnia, jak powstał werdykt, gdy dowody są niejednoznaczne lub niepewne, i ogłasza poprawki, gdy opublikowane sprawdzenie się zmienia."
+    "pl": "Wyjaśnia, jak powstał werdykt, gdy dowody są niejednoznaczne lub niepewne, i ogłasza poprawki, gdy opublikowane sprawdzenie się zmienia.",
+    "cs": "Vysvětlí, jak se došlo k verdiktu, když jsou důkazy smíšené nebo nejisté, a oznámí opravy, když se zveřejněná kontrola změní.",
+    "sk": "Vysvetlí, ako sa dospelo k verdiktu, keď sú dôkazy zmiešané alebo neisté, a oznámi opravy, keď sa zverejnená kontrola zmení.",
+    "hu": "Elmagyarázza, hogyan született az ítélet, ha a bizonyítékok vegyesek vagy bizonytalanok, és bejelenti a javításokat, ha egy közzétett ellenőrzés megváltozik."
   },
   "handles": [
     "uncertainty",

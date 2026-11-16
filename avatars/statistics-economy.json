@@ -7,15 +7,23 @@
   "names": {
     "default": "Thomas",
     "pl": "Tomasz",
-    "cs": "Tomáš"
+    "cs": "Tomáš",
+    "sk": "Tomáš",
+    "hu": "Tamás"
   },
   "title": {
     "en": "Statistics & economy",
-    "pl": "Statystyka i gospodarka"
+    "pl": "Statystyka i gospodarka",
+    "cs": "Statistika a ekonomika",
+    "sk": "Štatistika a ekonomika",
+    "hu": "Statisztika és gazdaság"
   },
   "job": {
     "en": "Numbers: prices, wages, budgets, crime figures, demography and trends.",
-    "pl": "Liczby: ceny, płace, budżety, dane o przestępczości, demografia i trendy."
+    "pl": "Liczby: ceny, płace, budżety, dane o przestępczości, demografia i trendy.",
+    "cs": "Čísla: ceny, mzdy, rozpočty, kriminalita, demografie a trendy.",
+    "sk": "Čísla: ceny, mzdy, rozpočty, kriminalita, demografia a trendy.",
+    "hu": "Számok: árak, bérek, költségvetések, bűnözési adatok, demográfia és trendek."
   },
   "domains": [
     "statistics",
@@ -28,11 +36,17 @@
   "sources": [
     {
       "en": "National statistics offices (planned)",
-      "pl": "Krajowe urzędy statystyczne (plan)"
+      "pl": "Krajowe urzędy statystyczne (plan)",
+      "cs": "Národní statistické úřady (plán)",
+      "sk": "Národné štatistické úrady (plán)",
+      "hu": "Nemzeti statisztikai hivatalok (tervezett)"
     },
     {
       "en": "Eurostat and international statistics (planned)",
-      "pl": "Eurostat i statystyki międzynarodowe (plan)"
+      "pl": "Eurostat i statystyki międzynarodowe (plan)",
+      "cs": "Eurostat a mezinárodní statistiky (plán)",
+      "sk": "Eurostat a medzinárodné štatistiky (plán)",
+      "hu": "Az Eurostat és nemzetközi statisztikák (tervezett)"
     }
   ],
   "evidencePolicy": {

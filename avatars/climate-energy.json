@@ -7,15 +7,23 @@
   "names": {
     "default": "Eve",
     "pl": "Ewa",
-    "cs": "Eva"
+    "cs": "Eva",
+    "sk": "Eva",
+    "hu": "Éva"
   },
   "title": {
     "en": "Climate, environment & energy",
-    "pl": "Klimat, środowisko i energia"
+    "pl": "Klimat, środowisko i energia",
+    "cs": "Klima, životní prostředí a energetika",
+    "sk": "Klíma, životné prostredie a energetika",
+    "hu": "Klíma, környezet és energia"
   },
   "job": {
     "en": "Air and water quality, climate data, energy prices and the energy mix.",
-    "pl": "Jakość powietrza i wody, dane klimatyczne, ceny energii i miks energetyczny."
+    "pl": "Jakość powietrza i wody, dane klimatyczne, ceny energii i miks energetyczny.",
+    "cs": "Kvalita ovzduší a vody, klimatická data, ceny energií a energetický mix.",
+    "sk": "Kvalita ovzdušia a vody, klimatické údaje, ceny energií a energetický mix.",
+    "hu": "Levegő- és vízminőség, klímaadatok, energiaárak és az energiamix."
   },
   "domains": [
     "climate",
@@ -26,11 +34,17 @@
   "sources": [
     {
       "en": "Environmental agencies and air-quality data (planned)",
-      "pl": "Agencje środowiskowe i dane o jakości powietrza (plan)"
+      "pl": "Agencje środowiskowe i dane o jakości powietrza (plan)",
+      "cs": "Agentury pro životní prostředí a data o kvalitě ovzduší (plán)",
+      "sk": "Agentúry pre životné prostredie a údaje o kvalite ovzdušia (plán)",
+      "hu": "Környezetvédelmi ügynökségek és levegőminőségi adatok (tervezett)"
     },
     {
       "en": "Climate research bodies (planned)",
-      "pl": "Instytucje badań klimatu (plan)"
+      "pl": "Instytucje badań klimatu (plan)",
+      "cs": "Klimatologická výzkumná pracoviště (plán)",
+      "sk": "Klimatologické výskumné pracoviská (plán)",
+      "hu": "Klímakutató intézmények (tervezett)"
     }
   ],
   "evidencePolicy": {
